@@ -23,6 +23,9 @@ Jenkins был собран
 
 Изменения на сайт быди внесены с помощью Git ✅
 
+<img width="484" height="161" alt="image" src="https://github.com/user-attachments/assets/546cb83e-2f11-4dd4-b9bb-9a8eef99878b" />
+
+
 <img width="854" height="455" alt="image" src="https://github.com/user-attachments/assets/ec73d515-c8c3-4f28-9668-58d6ea14448a" />
 
 ## Вывод 🌟
