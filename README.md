@@ -7,7 +7,7 @@
 
 <img width="1277" height="719" alt="image" src="https://github.com/user-attachments/assets/4ddf7217-aa36-41a6-a9a5-7212810b01ad" />
 
-В репозитории GitHub был настроен Webhook для автоматического уведомления Jenkins о новых коммитах.
+В репозитории GitHub был настроен Webhook для автоматического уведомления Jenkins о новых коммитах. ✅
 
 <img width="915" height="259" alt="image" src="https://github.com/user-attachments/assets/b196e7cb-834c-4568-81d7-66b672f5a62a" />
 
@@ -21,7 +21,7 @@ Jenkins был собран
 
 <img width="532" height="279" alt="image" src="https://github.com/user-attachments/assets/c8385fa3-9497-445d-9f0f-977311ea1f52" />
 
-Изменения на сайт быди внесены с помощью Git
+Изменения на сайт быди внесены с помощью Git ✅
 
 <img width="854" height="455" alt="image" src="https://github.com/user-attachments/assets/ec73d515-c8c3-4f28-9668-58d6ea14448a" />
 
