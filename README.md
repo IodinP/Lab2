@@ -21,7 +21,7 @@ Jenkins был собран
 
 <img width="532" height="279" alt="image" src="https://github.com/user-attachments/assets/c8385fa3-9497-445d-9f0f-977311ea1f52" />
 
-Текст на сайте изменился
+Изменения на сайт быди внесены с помощью Git
 
 <img width="854" height="455" alt="image" src="https://github.com/user-attachments/assets/ec73d515-c8c3-4f28-9668-58d6ea14448a" />
 
